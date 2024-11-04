@@ -2,7 +2,7 @@
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on offensive security
-  you can reach me on whatsapp +254742939094
+  you can reach me on whatsapp +1(843)8439502
 - 😄 Pronouns:  Him
 - ⚡ Fun fact... t
 - Them: "malware analysis is just easy you just use virustotal..."
