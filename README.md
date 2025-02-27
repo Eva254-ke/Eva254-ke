@@ -1,14 +1,23 @@
-- 👋 Hi, I’m @Eva254-ke
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning penetration testing
-- 💞️ I’m looking to collaborate on offensive security
-  you can reach me on whatsapp +1(843)8439502
-- 😄 Pronouns:  Him
-- ⚡ Fun fact... t
-- Them: "malware analysis is just easy you just use virustotal..."
-- me: ok I respect your wrong opinion
 
-<!---
-Eva254-ke/Eva254-ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+**Zachariah Evans**  
+👨‍💻 Software Engineer | Mobile App Developer | Ethical Hacker  
+💻 Building mobile applications and breaking them to make them better.  
+🔒 Passionate about ethical hacking, security, and creating secure, scalable software.  
+🚀 Always learning, coding and exploring new technologies.  
+
+---
+
+### Key Skills:
+- Mobile App Development (iOS/Android)  
+- Ethical Hacking & Penetration Testing  
+- Secure Coding Practices  
+- Debugging & Breaking Applications (for fun and improvement)  
+
+---
+
+### Current Focus:
+- Building innovative mobile applications.  
+- Exploring cybersecurity and ethical hacking challenges.  
+- Contributing to open-source projects.  
+
